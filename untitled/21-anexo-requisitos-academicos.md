@@ -1,4 +1,13 @@
-# 21 anexo requisitos academicos
+---
+description: "Ficha, calendário, critérios, plano de trabalho e requisitos definidos pelo professor."
+icon: file-check
+---
+
+{% hint style="success" %}
+**Fonte orientadora do trabalho.** Use a [matriz de conformidade](17-checklist.md) para acompanhar o atendimento de cada requisito, sem confundir texto preparado com execução validada.
+{% endhint %}
+
+# Requisitos acadêmicos do Projeto A3
 
 ## Identificação da entrega
 
@@ -8,7 +17,6 @@
 | Grupo                    | ANIMA Educação                                                                               |
 | Data de entrega da ficha | 14 de setembro de 2026                                                                       |
 | Professor                | Mario Sergio Caldas Teixeira                                                                 |
-| E-mails informados       | [e-mail omitido na versão pública] e [e-mail omitido na versão pública]                                                 |
 | Campus                   | Todos                                                                                        |
 | Turma                    | Todas                                                                                        |
 | Turno                    | Manhã                                                                                        |
