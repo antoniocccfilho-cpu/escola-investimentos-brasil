@@ -1,4 +1,13 @@
-# 20 apendice canva
+---
+description: "Arquivo acadêmico preservado; conteúdo histórico e referências de apresentação."
+icon: images
+---
+
+{% hint style="info" %}
+**Arquivo de referência histórica.** Este apêndice reúne materiais da proposta e de versões anteriores. Números de funcionalidades, progresso e datas devem ser conferidos nas seções atuais do GitBook antes de serem apresentados como estado presente.
+{% endhint %}
+
+# Apêndice Canva — registro histórico
 
 ## Escola de Investimentos Brasil
 
