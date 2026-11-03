@@ -1,4 +1,9 @@
-# 03 — Público-alvo
+---
+description: "Público-alvo, necessidades pedagógicas e hipóteses de pesquisa."
+icon: users
+---
+
+# Público-alvo
 
 ## Público principal
 
