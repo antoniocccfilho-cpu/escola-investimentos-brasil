@@ -45,7 +45,7 @@ Desenvolver e documentar um protótipo acadêmico de plataforma digital para apo
 | Grupo                    | ANIMA Educação                                                                               |
 | Data de entrega da ficha | 14 de setembro de 2026                                                                       |
 | Professor                | Mario Sergio Caldas Teixeira                                                                 |
-| E-mails informados       | mariosct@prof.una.br e mariosct@ulife.com.br                                                 |
+| E-mails informados       | [e-mail omitido na versão pública] e [e-mail omitido na versão pública]                                                 |
 | Campus                   | Todos                                                                                        |
 | Turma                    | Todas                                                                                        |
 | Turno                    | Manhã                                                                                        |
@@ -55,22 +55,10 @@ Desenvolver e documentar um protótipo acadêmico de plataforma digital para apo
 
 ### B.2 Integrantes registrados na ficha
 
-| Nome                                 |           RA | E-mail                    | Situação                            |
-| ------------------------------------ | -----------: | ------------------------- | ----------------------------------- |
-| Caio Roque de Menezes                |     32619192 | caioroque@gmail.com       | Registrado                          |
-| Bernardo Ferreira Veloso             |    326136784 | bferreiraveloso@gmail.com | Registrado                          |
-| Vinicius Barros Noman                |    326111399 | viniciusbnoman@gmail.com  | Registrado                          |
-| Antonio Carlos Caldas Cordeiro Filho |    326113144 | antoniocccfilho@gmail.com | Registrado                          |
-| Jackson                              | \[PREENCHER] | \[PREENCHER]              | Nome incompleto e dados pendentes   |
-| Integrante 6                         |            — | —                         | Sem preenchimento na ficha original |
-| Integrante 7                         |            — | —                         | Sem preenchimento na ficha original |
-| Integrante 8                         |            — | —                         | Sem preenchimento na ficha original |
-| Integrante 9                         |            — | —                         | Sem preenchimento na ficha original |
-| Integrante 10                        |            — | —                         | Sem preenchimento na ficha original |
-
-{% hint style="warning" %}
-**Nota de privacidade:** os dados de contato acima foram transcritos da ficha acadêmica fornecida pelo grupo e devem ser usados apenas na documentação institucional necessária. Não incluir esses e-mails em materiais públicos ou na apresentação, salvo exigência institucional.
+{% hint style="info" %}
+Os números de matrícula (RA) e e-mails dos integrantes foram omitidos desta publicação. A relação completa permanece no acervo acadêmico privado da equipe.
 {% endhint %}
+
 
 ### B.3 Descrição preliminar exigida pelo professor
 
