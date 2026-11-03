@@ -1,4 +1,9 @@
-# 04 — Solução proposta
+---
+description: "Solução educacional e biblioteca de cursos independentes."
+icon: puzzle-piece
+---
+
+# Solução proposta
 
 ## Proposta educacional
 
