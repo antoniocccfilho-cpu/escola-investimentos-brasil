@@ -1,37 +1,38 @@
-# Sumário
+# Table of contents
 
-## Apresentação
+* [Início](README.md)
 
-* [Escola de Investimentos Brasil](README.md)
-* [01 — Introdução](01-introducao.md)
-* [02 — Problema e oportunidade](02-problema-e-oportunidade.md)
-* [03 — Público-alvo](03-publico-alvo.md)
-* [04 — Solução proposta](04-solucao-proposta.md)
+## Visão geral
 
-## Plataforma e desenvolvimento
+* [Apresentação do projeto](01-introducao.md)
+    * [Problema e oportunidade](02-problema-e-oportunidade.md)
+    * [Público-alvo](03-publico-alvo.md)
+    * [Solução proposta](04-solucao-proposta.md)
+    * [Impactos esperados](13-impactos-esperados.md)
 
-* [05 — Funcionalidades](05-funcionalidades.md)
-* [06 — Arquitetura](06-arquitetura.md)
-* [07 — Inteligência artificial](07-inteligencia-artificial.md)
-* [08 — Dados utilizados](08-dados-utilizados.md)
-* [09 — Tecnologias](09-tecnologias.md)
-* [10 — Viabilidade, escopo e limitações](10-viabilidade-escopo-limitacoes.md)
+## Plataforma e engenharia
 
-## Evidências, gestão e impacto
+* [Funcionalidades](05-funcionalidades.md)
+    * [Arquitetura funcional](06-arquitetura.md)
+    * [Tecnologias e ferramentas](09-tecnologias.md)
+    * [Inteligência artificial e automação](07-inteligencia-artificial.md)
+    * [Dados utilizados](08-dados-utilizados.md)
+    * [Ética, LGPD e segurança](14-etica-lgpd-seguranca.md)
+    * [Viabilidade e limitações](10-viabilidade-escopo-limitacoes.md)
 
-* [11 — Evidências visuais](11-evidencias-visuais.md)
-* [12 — Cronograma, entregas e Gantt](12-cronograma.md)
-* [13 — Impactos esperados](13-impactos-esperados.md)
-* [14 — Ética, LGPD e segurança](14-etica-lgpd-seguranca.md)
-* [15 — Uso de IA e revisão humana](15-uso-de-ia.md)
-* [16 — Roadmap e decisões](16-roadmap.md)
-* [17 — Checklist](17-checklist.md)
+## Gestão e entregáveis A3
 
-## Referências e anexos
+* [Cronograma e Gantt](12-cronograma.md)
+    * [Evidências e testes](11-evidencias-visuais.md)
+    * [Roadmap e decisões](16-roadmap.md)
+    * [Uso de IA e revisão humana](15-uso-de-ia.md)
+    * [Checklist acadêmico](17-checklist.md)
+* [Conclusão](19-conclusao.md)
 
-* [18 — Referências](18-referencias.md)
-* [19 — Conclusão](19-conclusao.md)
-* [20 — Apêndice Canva](20-apendice-canva.md)
-* [21 — Anexo de requisitos acadêmicos](21-anexo-requisitos-academicos.md)
-* [22 — Material visual / slides](22-material-visual-slides.md)
-* [Registro do PDF original (28/09)](readme.md)
+## Anexos e referências
+
+* [Requisitos do professor](21-anexo-requisitos-academicos.md)
+    * [Material visual e slides](22-material-visual-slides.md)
+    * [Apêndice Canva](20-apendice-canva.md)
+    * [Referências](18-referencias.md)
+    * [Registro da documentação anterior](readme.md)

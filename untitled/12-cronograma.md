@@ -1,4 +1,9 @@
-# 12 — Cronograma, entregas e Gantt
+---
+description: "Entregas RT01–RT04, tabela de trabalho e marcos Gantt."
+icon: calendar-days
+---
+
+# Cronograma, entregas e Gantt
 
 **Projeto:** Escola de Investimentos Brasil  
 **Coordenação:** a confirmar na ficha oficial do grupo  

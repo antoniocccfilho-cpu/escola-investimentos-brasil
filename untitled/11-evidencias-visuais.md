@@ -1,4 +1,9 @@
-# 11 — Evidências visuais e verificações
+---
+description: "Capturas, diagnóstico de navegação e roteiro de verificação."
+icon: camera
+---
+
+# Evidências visuais e verificações
 
 ## Método
 
@@ -20,7 +25,7 @@ Em **03/11/2026** foi realizado um diagnóstico pontual da pré-visualização B
 | 10 | Curso Renda Fixa demonstrativo |
 | 11 | Saga — Aula 4 |
 
-Os arquivos originais permanecem em pasta de evidências do Drive com acesso administrado pela equipe. Não foram reproduzidos aqui para evitar divulgação inadvertida de informações de sessão e perfil.
+[As 11 capturas originais estão na pasta de evidências do Drive](https://drive.google.com/drive/folders/1CJOuZ6y6w93IDURv0qHhR5NuXm896KUr), com acesso administrado pela equipe. Não foram reproduzidos aqui para evitar divulgação inadvertida de informações de sessão e perfil.
 
 ## Achados priorizados do diagnóstico
 
