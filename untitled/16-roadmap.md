@@ -1,4 +1,9 @@
-# 16 — Roadmap, decisões e evolução
+---
+description: "Decisões aprovadas, prioridades e diário da evolução do projeto."
+icon: route
+---
+
+# Roadmap, decisões e evolução
 
 ## Decisões vigentes
 
