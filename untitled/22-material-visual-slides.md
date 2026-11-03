@@ -1,4 +1,13 @@
-# 22 material visual slides
+---
+description: "Roteiro visual histórico para a apresentação e pontos a revalidar na banca."
+icon: presentation
+---
+
+{% hint style="warning" %}
+**Roteiro histórico da versão de setembro/2026.** As quantidades de aulas, o catálogo e o estado de funcionalidades aqui registrados refletem o material inicial. Antes de reutilizar slides na banca, comparar com o [diagnóstico de novembro](11-evidencias-visuais.md) e o [checklist acadêmico](17-checklist.md).
+{% endhint %}
+
+# Material visual e roteiro de apresentação
 
 ## Projeto A3 Exploração Digital e Fundamentos Tecnológicos
 
@@ -10,7 +19,7 @@ Caio Roque · Bernardo Veloso · Vinicius Noman · Antonio Caldas · Jackson
 
 Conteúdos financeiros dispersos em múltiplas fontes e linguagens técnicas dificultam o aprendizado. A ausência de sequência didática torna difícil distinguir educação de propaganda.
 
-A nota média de 59,6 pontos na Pesquisa de Letramento Financeiro do Banco Central (a validar) evidencia a lacuna.
+A pesquisa de letramento financeiro de 2023 do Banco Central informa média de 59,6/100; ver a [fonte oficial](https://www.bcb.gov.br/cidadaniafinanceira/letramento_financeiro). O indicador não mede alunos do projeto.
 
 A oportunidade: uma plataforma com aprendizagem progressiva, interativa e estruturada.
 
@@ -26,7 +35,7 @@ A oportunidade: uma plataforma com aprendizagem progressiva, interativa e estrut
 
 ## Jornada do Usuário
 
-[escoladeinvestimentosbrasil.app](/broken/pages/4d877aebbe51d5a5a4ac4a5a0970617c0b881c57)
+[Abrir protótipo da Escola de Investimentos](https://smart-wealth-pragmatic-path.base44.app)
 
 {% stepper %}
 {% step %}
