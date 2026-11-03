@@ -1,4 +1,9 @@
-# 15 — Uso de inteligência artificial e revisão humana
+---
+description: "Protocolo de documentação de prompts, revisão e validação humana."
+icon: robot
+---
+
+# Uso de inteligência artificial e revisão humana
 
 ## Objetivo
 
