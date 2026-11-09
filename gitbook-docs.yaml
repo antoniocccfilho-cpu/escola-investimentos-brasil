@@ -15,4 +15,4 @@ site:
       path: copy-of-untitled
       draft: true
       content:
-        directory: ./copy-of-untitled
+        directory: null
