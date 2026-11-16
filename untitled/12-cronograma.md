@@ -110,4 +110,12 @@ Fonte: foto do Plano de Aula 2026/2, professor Mário Sérgio Caldas Teixeira, e
 | 🔴 Vermelho | Prazo vencido e tarefa não concluída      |
 | ⚪ Cinza     | Não iniciado / tarefa futura              |
 
+
+
+📊 Cronograma em Excel
+
+Consulte o cronograma visual e as abas do Plano de Trabalho na planilha original.
+
+[Abrir planilha do Plano de Trabalho](https://docs.google.com/spreadsheets/d/1DsgU0vpYi3u_O-PA8ZD1TmhxQJ237pyw/edit)
+
 A tabela acima é a visão documental inicial. O Gantt por tarefa, calculado por datas e com edição de responsáveis, status e percentual, deverá ser mantido em planilha conectada. Não há percentuais inventados para produzir um gráfico aparentemente concluído.

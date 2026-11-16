@@ -1,13 +1,33 @@
 ---
-description: "Portal da documentação acadêmica, técnica e evolutiva do Projeto A3."
+description: Portal da documentação acadêmica, técnica e evolutiva do Projeto A3.
 icon: graduation-cap
 layout:
   width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
-# Escola de Investimentos Brasil
+# Início
 
 **Projeto A3 • Exploração Digital e Fundamentos Tecnológicos • 2026**
+
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>🚀 Protótipo Interativo — Escola de Investimentos</td><td><a href="https://smart-wealth-pragmatic-path.base44.app/">https://smart-wealth-pragmatic-path.base44.app/</a></td><td><a href=".gitbook/assets/Captura de tela 2026-11-16 030601.png">Captura de tela 2026-11-16 030601.png</a></td></tr></tbody></table>
 
 Uma plataforma de educação financeira para iniciantes, com **cursos independentes, aulas interativas e aprendizagem progressiva**. Este GitBook reúne a proposta, a engenharia, o plano acadêmico, as evidências e a evolução do projeto.
 
@@ -19,37 +39,7 @@ Uma plataforma de educação financeira para iniciantes, com **cursos independen
 
 ## Explore a documentação
 
-<table data-view="cards">
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th data-hidden data-card-target data-type="content-ref"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>🎯 Visão geral</strong></td>
-      <td>Problema, público, propósito e proposta educacional.</td>
-      <td><a href="01-introducao.md">Conhecer o projeto</a></td>
-    </tr>
-    <tr>
-      <td><strong>🧩 Plataforma</strong></td>
-      <td>Funcionalidades, arquitetura, tecnologias e limitações.</td>
-      <td><a href="05-funcionalidades.md">Explorar a solução</a></td>
-    </tr>
-    <tr>
-      <td><strong>📅 Gestão e RTs</strong></td>
-      <td>RT01–RT04, cronograma Gantt, evidências e decisões.</td>
-      <td><a href="12-cronograma.md">Ver entregas</a></td>
-    </tr>
-    <tr>
-      <td><strong>🎓 Requisitos da banca</strong></td>
-      <td>Critérios do professor, conformidade e pendências reais.</td>
-      <td><a href="17-checklist.md">Conferir checklist</a></td>
-    </tr>
-  </tbody>
-</table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🎯 Visão geral</strong></td><td>Problema, público, propósito e proposta educacional.</td><td><a href="01-introducao.md">01-introducao.md</a></td></tr><tr><td><strong>🧩 Plataforma</strong></td><td>Funcionalidades, arquitetura, tecnologias e limitações.</td><td><a href="05-funcionalidades.md">05-funcionalidades.md</a></td></tr><tr><td><strong>📅 Gestão e RTs</strong></td><td>RT01–RT04, cronograma Gantt, evidências e decisões.</td><td><a href="12-cronograma.md">12-cronograma.md</a></td></tr><tr><td><strong>🎓 Requisitos da banca</strong></td><td>Critérios do professor, conformidade e pendências reais.</td><td><a href="17-checklist.md">17-checklist.md</a></td></tr></tbody></table>
 
 ## A experiência proposta
 
@@ -59,16 +49,19 @@ Uma plataforma de educação financeira para iniciantes, com **cursos independen
 
 A biblioteca organiza formações independentes. **A Saga do Dinheiro** foi definida como curso introdutório próprio.
 {% endstep %}
+
 {% step %}
 ### Aprender por etapas
 
 Cada curso reúne módulos, aulas e telas com exemplos, perguntas e atividades.
 {% endstep %}
+
 {% step %}
 ### Aplicar e refletir
 
 Simulações e feedback ajudam a testar o entendimento de conceitos, sem prometer rentabilidade.
 {% endstep %}
+
 {% step %}
 ### Acompanhar a evolução
 
@@ -78,14 +71,14 @@ O aluno deve conseguir entender o próximo passo; o progresso individual real ai
 
 ## Painel de acompanhamento
 
-| Frente | Estado registrado | Próxima comprovação |
-| --- | --- | --- |
-| **Concepção pedagógica** | 🟢 Estrutura de cursos independentes **decidida** | Conferir integração final no catálogo |
-| **Saga do Dinheiro** | 🟡 Quatro aulas e 61 telas **inventariadas** | Revisão tela a tela e testes |
-| **Aula 4 — juros** | 🟡 Player de 10 telas **observado** | Aprovação pedagógica |
-| **Aula 5** | 🔴 **Bloqueada** pela regra de sequência | Iniciar somente após aprovação da Aula 4 |
-| **Auditoria integral do aluno** | ⚪ **Pendente** | Executar após produção das aulas |
-| **RT04** | 🟡 Entrega marcada para **17/11/2026** | Confirmar responsáveis e material entregue |
+| Frente                          | Estado registrado                                 | Próxima comprovação                        |
+| ------------------------------- | ------------------------------------------------- | ------------------------------------------ |
+| **Concepção pedagógica**        | 🟢 Estrutura de cursos independentes **decidida** | Conferir integração final no catálogo      |
+| **Saga do Dinheiro**            | 🟡 Quatro aulas e 61 telas **inventariadas**      | Revisão tela a tela e testes               |
+| **Aula 4 — juros**              | 🟡 Player de 10 telas **observado**               | Aprovação pedagógica                       |
+| **Aula 5**                      | 🔴 **Bloqueada** pela regra de sequência          | Iniciar somente após aprovação da Aula 4   |
+| **Auditoria integral do aluno** | ⚪ **Pendente**                                    | Executar após produção das aulas           |
+| **RT04**                        | 🟡 Entrega marcada para **17/11/2026**            | Confirmar responsáveis e material entregue |
 
 {% hint style="warning" %}
 Os ícones acima comunicam **estado documental**, não nota, percentual de entrega nem garantia de funcionamento. O [diário de evidências](11-evidencias-visuais.md) registra o que efetivamente foi observado.
