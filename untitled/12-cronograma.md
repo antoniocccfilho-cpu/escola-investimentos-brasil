@@ -5,6 +5,14 @@ icon: calendar-days
 
 # Cronograma e Gantt
 
+### Vídeo demonstrativo — Seu dinheiro tem uma história
+
+Filme conceitual da Escola de Investimentos Brasil. 54 segundos, 720p, com animação e trilha instrumental, sem locução. As cenas representam a proposta de aprendizagem e não são gravações da interface real.
+
+{% embed url="https://drive.google.com/file/d/1fHIy_GS86nPyjog-6wTD87OhcBE1Nnxs/view" %}
+
+[Assistir ou baixar o MP4](https://drive.google.com/file/d/1fHIy_GS86nPyjog-6wTD87OhcBE1Nnxs/view)
+
 **Projeto:** Escola de Investimentos Brasil\
 **Coordenação:** a confirmar na ficha oficial do grupo\
 **Período acadêmico de referência:** setembro a dezembro de 2026\
