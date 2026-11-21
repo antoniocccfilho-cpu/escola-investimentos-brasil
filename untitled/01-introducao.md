@@ -1,9 +1,9 @@
 ---
-description: "Identificação, contexto, objetivos e entregáveis do Projeto A3."
+description: Identificação, contexto, objetivos e entregáveis do Projeto A3.
 icon: house
 ---
 
-# Introdução
+# Apresentação do projeto
 
 ## Escola de Investimentos Brasil
 
@@ -15,10 +15,10 @@ A **Escola de Investimentos Brasil** é um protótipo acadêmico de educação f
 
 ## Equipe e contexto acadêmico
 
-- **Projeto A3:** Exploração Digital e Fundamentos Tecnológicos.
-- **Professor:** Mario Sergio Caldas Teixeira (conforme ficha acadêmica).
-- **Equipe registrada no material da apresentação:** Caio Roque, Bernardo Veloso, Vinicius Noman, Antonio Caldas e Jackson.
-- **Papéis e distribuição de tarefas:** ainda precisam ser validados e registrados pelo grupo. Números de matrícula e contatos pessoais não são publicados aqui.
+* **Projeto A3:** Exploração Digital e Fundamentos Tecnológicos.
+* **Professor:** Mario Sergio Caldas Teixeira (conforme ficha acadêmica).
+* **Equipe registrada no material da apresentação:** Caio Roque, Bernardo Veloso, Vinicius Noman, Antonio Caldas e Jackson.
+* **Papéis e distribuição de tarefas:** ainda precisam ser validados e registrados pelo grupo. Números de matrícula e contatos pessoais não são publicados aqui.
 
 ## Propósito
 
@@ -44,6 +44,10 @@ Desenvolver, aprimorar e demonstrar um protótipo funcional de aprendizagem fina
 A apresentação deve seguir uma jornada verificável: **início → biblioteca → curso → aula → interação → resultado ou próxima etapa**. Nenhuma etapa é considerada concluída sem teste documentado.
 
 ## Organização deste GitBook
+
+https://github.com/antoniocccfilho-cpu/escola-investimentos-brasil/blob/main/untitled/.gitbook/assets/escola-investimentos-brasil-final-1080p.mp4
+
+A demonstração apresenta a visão geral da plataforma, a biblioteca de cursos, A Saga do Dinheiro e a primeira aula, História do Dinheiro, incluindo o fluxo interativo mostrado na aula.
 
 O corpo principal aborda problema, público, solução e funcionamento; as seções seguintes registram engenharia, gestão, validações e entregáveis acadêmicos. [Consulte a matriz de requisitos do professor](17-checklist.md) para localizar cada exigência.
 

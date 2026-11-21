@@ -89,3 +89,9 @@ Os ícones acima comunicam **estado documental**, não nota, percentual de entre
 O [GitHub da documentação](https://github.com/antoniocccfilho-cpu/escola-investimentos-brasil) mantém versões e revisões. O [documento central do A3](https://docs.google.com/document/d/1m8SKJcEsEo2b80o4lfABnKfbE1-PRFOY8q55rDsIhMg/edit) e o [diagnóstico de 03/11](https://docs.google.com/document/d/1xy1s2m6bWRltOhbgG2u29_4k8PquNtK-RGi4vtrYrK4/edit) registram fontes de trabalho da equipe; o acesso a essas pastas pode ser restrito.
 
 [**Comece pela introdução**](01-introducao.md)
+
+### Demonstração do aplicativo
+
+O vídeo demonstrativo percorre a página inicial e a biblioteca de cursos, entra em A Saga do Dinheiro e em História do Dinheiro, e mostra o fluxo interativo observado na aula. Duração: 85 segundos, MP4 1080p.
+
+[https://github.com/antoniocccfilho-cpu/escola-investimentos-brasil/blob/main/untitled/.gitbook/assets/escola-investimentos-brasil-final-1080p.mp4](https://github.com/antoniocccfilho-cpu/escola-investimentos-brasil/blob/main/untitled/.gitbook/assets/escola-investimentos-brasil-final-1080p.mp4)
