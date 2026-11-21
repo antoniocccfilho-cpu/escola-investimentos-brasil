@@ -1,8 +1,15 @@
 ---
 description: Portal da documentação acadêmica, técnica e evolutiva do Projeto A3.
 icon: graduation-cap
+cover: >-
+  https://raw.githubusercontent.com/antoniocccfilho-cpu/escola-investimentos-brasil/main/untitled/.gitbook/assets/escola-investimentos-hero-app.png
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
+    mask: none
   title:
     visible: true
   description:
